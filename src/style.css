@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+
+.header {
+  display: flex;
+  background-color: #F55A5A;
+}
+
+.header--logo {
+  color: #DADADA;
+  width: 24px;
+  height: 24px;
+}
